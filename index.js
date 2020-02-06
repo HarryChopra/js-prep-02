@@ -1,5 +1,5 @@
 let name = 'Harry';
-let height = 187;
+let height = 188;
 let message = `${name} is ${height} cms tall.`;
 
 const fx = {
